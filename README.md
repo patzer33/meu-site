@@ -31,3 +31,6 @@ O projeto será atualizado conforme novos conteúdos e conhecimentos forem apres
 ## 👨‍💻 Autor
 
 Desenvolvido por Pedro Gabriel Patzer durante as aulas de Desenvolvimento de Sistemas.
+
+## Link temporário
+https://patzer33.github.io/meu-site/
